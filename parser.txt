@@ -1,0 +1,31 @@
+the current folderis /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers
+SUBOLDER of /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers:dir
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers:dirWalker.py
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers:README.md
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers:parser.csv
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers:parser.txt
+==========================================================================the current folderis /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir
+SUBOLDER of /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir:build
+SUBOLDER of /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir:src
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir:file_dir.c
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir:file_dir.txt
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir:file_dir.h
+==========================================================================the current folderis /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/build
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/build:file_build.h
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/build:file_build.txt
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/build:file_build.c
+==========================================================================the current folderis /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src
+SUBOLDER of /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src:folder2
+SUBOLDER of /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src:folder1
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src:file_src.h
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src:file_src.c
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src:file_src.txt
+==========================================================================the current folderis /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src/folder2
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src/folder2:file2.h
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src/folder2:file2.c
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src/folder2:file2.txt
+==========================================================================the current folderis /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src/folder1
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src/folder1:file1.c
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src/folder1:file1.h
+File Inside /home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/dir/src/folder1:file1.txt
+==========================================================================
