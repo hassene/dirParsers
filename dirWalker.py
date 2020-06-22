@@ -28,21 +28,21 @@ def parseDirectory(Current_path):
       else:
          #print("the current folder is "+ folderName)
          #parser.write("the current folderis " + folderName+ '\n')
-         csvWriter.writerow(str(folderName))
+         csvWriter.writerow([folderName])
          for subfolder in subfolders:
             if str(subfolder).startswith('.'):
                subfolders.remove(subfolder)
-            else:
+            #else:
                #print("SUBFOLDER of "+ folderName + ":" + subfolder)
                #parser.write("SUBOLDER of "+ folderName+":"+ subfolder+ '\n')
-               csvWriter.writerow(str(subfolder))
+               csvWriter.writerow([subfolder])
          for filename in filenames:
             if str(filename).startswith('.'):
-               filenames.remove(filename)
+               filenames.remove('filename')
             else: 
                #print("File Inside" + folderName + ":" + filename)
                #parser.write("File Inside "+ folderName+":"+ filename+ '\n')
-               csvWriter.writerow(str(filename))
+               csvWriter.writerow([filename])
      # print("===================================================================")
      # parser.write("==========================================================================")
    #parser.close()
@@ -58,6 +58,11 @@ def main():
    print(help(parseDirectory))
    parseDirectory(current_path)
  #  csvWriter()
+
+   #csvFileObj = open('/home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/parserCVS.csv', 'w', newline='')
+   #csvWriter = csv.writer(csvFileObj)
+   #csvWriter.writerow(['/home/hassene/MyWorkspace/02_Dev/01_Scripts/01_Python/newFolder/dirParsers/', 'eggs', 'bacon', 'ham'])
+   #csvFileObj.close()
 
 if __name__ == "__main__":
    main()
