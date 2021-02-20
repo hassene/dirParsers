@@ -11,6 +11,19 @@ Stuff that will be tested:
 >>>from pathlib import Path
  import os
 """
+def help():
+   """
+   inputParm: Current_path => path that will parsed
+   Description: this function will print all folders, subfolders and filenames found in the current path
+                excluding the folders, subfolders and filename which start with a dot.
+   To conitune, please tape "q".
+   """
+    print("
+	  #1.Search for a data
+  	  #2.Search for an API
+          #3.Search for a type definition
+	  ")
+	
 def parseDirectory(Current_path):
    """
    inputParm: Current_path => path that will parsed
